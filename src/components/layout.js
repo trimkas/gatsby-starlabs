@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <>
+    <div style={{fontFamily: `'Open Sans', Arial, sans-serif`}}>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{
@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
-    </>
+    </div>
   )
 }
 

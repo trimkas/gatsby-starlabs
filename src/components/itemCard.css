@@ -1,0 +1,13 @@
+.itemCard{
+    width: 250px;
+    float: left;
+    margin: 10px;
+}
+
+.itemCard p{
+    font-size: 15px;
+}
+
+.itemCard h2{
+    font-size: 24px;
+}

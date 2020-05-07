@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Pizza Vegetarian",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "pizza",
+        "rating": 4,
+        "image": "https://picsum.photos/300/300"
+    },
+    {
+        "title": "Pizza Proscuitto",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "pizza",
+        "rating": 2,
+        "image": "https://picsum.photos/300/301"
+    },
+    {
+        "title": "Pizza 4 Seasons",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "pizza",
+        "rating": 3,
+        "image": "https://picsum.photos/300/303"
+    },
+    {
+        "title": "Ceasar Salad",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "salad",
+        "rating": 5,
+        "image": "https://picsum.photos/300/304"
+    },
+    {
+        "title": "Mixed Salad",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "salad",
+        "rating": 1,
+        "image": "https://picsum.photos/300/305"
+    },
+    {
+        "title": "Random Salad",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "salad",
+        "rating": 4,
+        "image": "https://picsum.photos/300/306"
+    },
+    {
+        "title": "Fish Soup",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "soup",
+        "rating": 5,
+        "image": "https://picsum.photos/300/307"
+    },
+    {
+        "title": "Tomato Soup",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "soup",
+        "rating": 1,
+        "image": "https://picsum.photos/300/308"
+    },
+    {
+        "title": "Awesome Soup",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum deserunt cum hic nemo repellendus neque totam? Veniam eveniet animi nulla reiciendis sit? Voluptatem saepe dolores soluta doloribus qui neque quaerat",
+        "type": "soup",
+        "rating": 4,
+        "image": "https://picsum.photos/300/309"
+    }
+]

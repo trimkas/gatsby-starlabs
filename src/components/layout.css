@@ -631,3 +631,32 @@ pre tt:after {
 .navLinkActive{
   border-bottom: 1px solid white;
 }
+
+.itemHolder{
+  width: 1080px;
+  margin: auto;
+}
+
+footer{
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.buttonHolder{
+  text-align: center;
+}
+
+.buttonHolder button{
+  margin: 10px;
+  background: white;
+  border: 2px solid green;
+  color: green;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.buttonHolder button.buttonActive{
+  background-color: green;
+  color: white;
+}
